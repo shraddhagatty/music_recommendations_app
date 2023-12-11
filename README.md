@@ -38,6 +38,11 @@ The application is built using the following technologies:
 
 Users can click on the "Recommend" button after selecting parameters to receive 10 song recommendations from Spotify. They can store these recommendations as favorites and access them later using their email.
 
+![Frontend](./images/melomanie_front.png)
+
+![Recommendation](./images/recommendations.png)
+
+
 ## Lambda Functions
 
 ### 1. melomanie_recommendation
