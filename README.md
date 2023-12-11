@@ -20,6 +20,7 @@
 ## Architecture
 
 The application is built using the following technologies:
+
 ![Architecture](./images/Picture%201.png)
 
 - **FrontEnd:** ReactJS
