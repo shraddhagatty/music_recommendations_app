@@ -20,6 +20,7 @@
 ## Architecture
 
 The application is built using the following technologies:
+![Architecture](./images/Picture%201.png)
 
 - **FrontEnd:** ReactJS
 - **BackEnd:** AWS services
@@ -30,7 +31,7 @@ The application is built using the following technologies:
 
 ## FrontEnd Repository
 
-[Melomanie FrontEnd](https://github.com/shraddhagatty/music_recommendations_app/tree/main/melomanie-main))
+[Melomanie FrontEnd](https://github.com/shraddhagatty/music_recommendations_app/tree/main/melomanie-main)
 
 ## Demo
 
